@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Data and workflow for modelling potential suitable habitat of Pistia stratiotes in China"
+message: "If you use this repository, please cite the archived Zenodo DOI after release."
+type: dataset
+authors:
+  - family-names: Tian
+    given-names: Ruijie
+version: "1.0.0"
+date-released: "2026-07-06"
+repository-code: "https://github.com/[USERNAME]/Pistia-stratiotes-SDM-workflow"
+keywords:
+  - species distribution modelling
+  - MaxEnt
+  - Pistia stratiotes
+  - invasive aquatic macrophyte
+  - China
+license: MIT

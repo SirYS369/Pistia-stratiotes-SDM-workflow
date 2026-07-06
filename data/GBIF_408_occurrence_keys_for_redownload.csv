@@ -1,0 +1,409 @@
+﻿gbif_key,datasetKey,datasetTitle,basisOfRecord,country,province,locality,time,references
+5007681904,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2025-01-04,https://www.inaturalist.org/observations/257352944
+5063105150,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2025-01-16,https://www.inaturalist.org/observations/258905149
+5063217626,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Sichuan,,2025-01-21,https://www.inaturalist.org/observations/259138257
+5063419301,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2025-01-24,https://www.inaturalist.org/observations/259424634
+5087434853,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2025-03-01,https://www.inaturalist.org/observations/263480096
+5134659855,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2025-03-30,https://www.inaturalist.org/observations/269340745
+5760745976,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2025-03-07,https://www.inaturalist.org/observations/307700337
+5892750601,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hainan,,2025-03-20,https://www.inaturalist.org/observations/266055213
+5176576489,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Zhejiang,,2025-05-30,https://www.inaturalist.org/observations/285311346
+5187633952,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Chongqing,,2025-06-01,https://www.inaturalist.org/observations/286671066
+5216670200,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2025-06-25,https://www.inaturalist.org/observations/292840749
+6352659085,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2025-06-08,https://www.inaturalist.org/observations/366683539
+5216473515,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2025-07-03,https://www.inaturalist.org/observations/294863799
+5217136634,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2025-07-04,https://www.inaturalist.org/observations/295049454
+5231281379,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Chongqing,,2025-07-10,https://www.inaturalist.org/observations/296911671
+5231817583,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Zhejiang,,2025-07-12,https://www.inaturalist.org/observations/297188148
+5292031397,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2025-07-18,https://www.inaturalist.org/observations/305434947
+5293321022,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hainan,,2025-08-16,https://www.inaturalist.org/observations/306644702
+5760251013,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangsu,,2025-08-23,https://www.inaturalist.org/observations/308315299
+5760310801,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shandong,,2025-08-29,https://www.inaturalist.org/observations/309923818
+5827411203,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Beijing,,2025-09-10,https://www.inaturalist.org/observations/312820417
+5838265472,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shanghai,,2025-09-27,https://www.inaturalist.org/observations/316877611
+5844150712,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2025-09-11,https://www.inaturalist.org/observations/319073490
+5007296934,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-01-05,https://www.inaturalist.org/observations/257437991
+5007812911,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-01-06,https://www.inaturalist.org/observations/257570412
+5036959724,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2025-01-13,https://www.inaturalist.org/observations/258376079
+5063013533,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-01-14,https://www.inaturalist.org/observations/258614380
+5063152056,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-01-20,https://www.inaturalist.org/observations/259033258
+5063322353,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-01-21,https://www.inaturalist.org/observations/259245446
+5063648375,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-01-13,https://www.inaturalist.org/observations/260115717
+5063968509,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-01-08,https://www.inaturalist.org/observations/260880263
+5069840585,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-02-11,https://www.inaturalist.org/observations/261404324
+5070001243,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2025-02-18,https://www.inaturalist.org/observations/262061834
+5076968647,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-02-21,https://www.inaturalist.org/observations/262468759
+5077079760,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-02-24,https://www.inaturalist.org/observations/262911835
+5087465145,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-03-04,https://www.inaturalist.org/observations/263830638
+5087730453,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-03-06,https://www.inaturalist.org/observations/264075817
+5087935621,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2025-03-13,https://www.inaturalist.org/observations/265142861
+5088053136,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-03-18,https://www.inaturalist.org/observations/265806330
+5104664574,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-03-24,https://www.inaturalist.org/observations/266677045
+5133188922,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-04-12,https://www.inaturalist.org/observations/269890198
+5134114122,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-02,https://www.inaturalist.org/observations/268898838
+5140454150,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-26,https://www.inaturalist.org/observations/273696230
+5140543254,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2025-04-27,https://www.inaturalist.org/observations/274513241
+5140546300,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-04-27,https://www.inaturalist.org/observations/274503112
+5140550055,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-04-27,https://www.inaturalist.org/observations/274475142
+5140551677,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-04-27,https://www.inaturalist.org/observations/274349462
+5140588826,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-27,https://www.inaturalist.org/observations/274701551
+5140885791,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-04-26,https://www.inaturalist.org/observations/276279010
+5141079814,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-28,https://www.inaturalist.org/observations/275893477
+5141086413,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-04-28,https://www.inaturalist.org/observations/275718396
+5141104718,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-04-29,https://www.inaturalist.org/observations/276491845
+5153173835,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-30,https://www.inaturalist.org/observations/276881495
+5153809954,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-28,https://www.inaturalist.org/observations/275660823
+6253011473,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-04-14,https://www.inaturalist.org/observations/347774223
+5153326847,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-05-06,https://www.inaturalist.org/observations/278952924
+5153492848,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-05-01,https://www.inaturalist.org/observations/277197549
+5167071014,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-05-17,https://www.inaturalist.org/observations/283366389
+5230590033,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-05-06,https://www.inaturalist.org/observations/299532283
+5282021083,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-05-16,https://www.inaturalist.org/observations/302528744
+5282295822,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-05-16,https://www.inaturalist.org/observations/302528737
+5903904319,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-05-10,https://www.inaturalist.org/observations/327923389
+5187849722,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-06-04,https://www.inaturalist.org/observations/286739889
+5198954217,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-06-13,https://www.inaturalist.org/observations/289458154
+5199245374,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2025-06-14,https://www.inaturalist.org/observations/289718186
+5206058423,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-06-22,https://www.inaturalist.org/observations/291705689
+5206257894,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-06-16,https://www.inaturalist.org/observations/290893332
+5215859057,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-06-21,https://www.inaturalist.org/observations/295971152
+5217027666,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-06-29,https://www.inaturalist.org/observations/293562047
+5217421428,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Fujian,,2025-06-21,https://www.inaturalist.org/observations/293216630
+5230082293,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-07-16,https://www.inaturalist.org/observations/298347761
+5230911338,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-07-08,https://www.inaturalist.org/observations/298405091
+5238025502,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2025-07-27,https://www.inaturalist.org/observations/301524221
+5282241676,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-08-02,https://www.inaturalist.org/observations/303027732
+5282474702,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-08-04,https://www.inaturalist.org/observations/303966983
+5292621719,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2025-08-13,https://www.inaturalist.org/observations/305896364
+5759510447,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2025-08-24,https://www.inaturalist.org/observations/310471270
+5759658563,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-26,https://www.inaturalist.org/observations/309178450
+5759768715,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-24,https://www.inaturalist.org/observations/308625974
+5760202740,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2025-08-28,https://www.inaturalist.org/observations/309639255
+5760673258,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-24,https://www.inaturalist.org/observations/308653617
+5761030531,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-29,https://www.inaturalist.org/observations/309914329
+5827853138,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-27,https://www.inaturalist.org/observations/311175757
+5837893602,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-08-27,https://www.inaturalist.org/observations/313037300
+5844193493,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-05,https://www.inaturalist.org/observations/319489579
+5889468408,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2025-08-12,https://www.inaturalist.org/observations/322343295
+5844139502,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2025-09-24,https://www.inaturalist.org/observations/320650313
+5140458458,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2025-04-25,https://www.inaturalist.org/observations/273511198
+5140622318,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tai Po,,2025-04-27,https://www.inaturalist.org/observations/274474286
+5140788928,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2025-04-28,https://www.inaturalist.org/observations/275588527
+5230827280,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tai Po,,2025-07-15,https://www.inaturalist.org/observations/298163960
+5140332604,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,MO,Ilhas,,2025-04-26,https://www.inaturalist.org/observations/273559707
+5140523908,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,MO,Macau,,2025-04-27,https://www.inaturalist.org/observations/274414159
+5140730382,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,MO,Macau,,2025-04-27,https://www.inaturalist.org/observations/274562246
+5140748598,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,MO,Macau,,2025-04-27,https://www.inaturalist.org/observations/274557673
+4516893446,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2024-01-21,https://www.inaturalist.org/observations/197215085
+4522670465,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2024-02-09,https://www.inaturalist.org/observations/198784752
+4527994085,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2024-02-23,https://www.inaturalist.org/observations/200183490
+4528250535,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2024-02-19,https://www.inaturalist.org/observations/199989924
+4904123066,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2024-06-23,https://www.inaturalist.org/observations/224583487
+4946620676,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Zhejiang,,2024-06-21,https://www.inaturalist.org/observations/224189578
+4908842433,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2024-07-16,https://www.inaturalist.org/observations/229675179
+4936078364,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2024-09-03,https://www.inaturalist.org/observations/239595468
+4980452456,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2024-09-13,https://www.inaturalist.org/observations/250799934
+4954478246,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2024-10-15,https://www.inaturalist.org/observations/247480186
+4954786444,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2024-10-10,https://www.inaturalist.org/observations/246700036
+4973901443,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2024-10-18,https://www.inaturalist.org/observations/247890806
+4978500339,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Beijing,,2024-10-30,https://www.inaturalist.org/observations/249761127
+4981995490,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2024-11-10,https://www.inaturalist.org/observations/251515886
+4516333279,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-01-24,https://www.inaturalist.org/observations/197429744
+4516441804,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-01-28,https://www.inaturalist.org/observations/197763860
+5007129224,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2024-01-16,https://www.inaturalist.org/observations/197370710
+4525282729,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-02-18,https://www.inaturalist.org/observations/199636747
+4525305217,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-02-18,https://www.inaturalist.org/observations/199653596
+4528081699,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-02-25,https://www.inaturalist.org/observations/200372114
+4597266767,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-02-24,https://www.inaturalist.org/observations/201664814
+4597027831,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2024-03-11,https://www.inaturalist.org/observations/202437222
+4607082986,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-04,https://www.inaturalist.org/observations/205357014
+4607144061,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-04,https://www.inaturalist.org/observations/205868620
+4607396642,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-10,https://www.inaturalist.org/observations/206399188
+4846906705,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2024-04-14,https://www.inaturalist.org/observations/207115537
+4847098332,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-12,https://www.inaturalist.org/observations/207574059
+4847255919,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2024-04-15,https://www.inaturalist.org/observations/207355365
+4851751994,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-27,https://www.inaturalist.org/observations/210104019
+4852486468,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-26,https://www.inaturalist.org/observations/210685888
+4853122482,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-04-26,https://www.inaturalist.org/observations/209556912
+4867862793,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-05-05,https://www.inaturalist.org/observations/216098240
+4872352720,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-05-21,https://www.inaturalist.org/observations/217438692
+4872506979,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Fujian,,2024-05-23,https://www.inaturalist.org/observations/217657185
+4935845921,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2024-05-28,https://www.inaturalist.org/observations/218835230
+4902037848,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-06-13,https://www.inaturalist.org/observations/222382766
+4945728580,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2024-06-03,https://www.inaturalist.org/observations/241640920
+4908937879,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-07-14,https://www.inaturalist.org/observations/229307251
+4909289206,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-07-12,https://www.inaturalist.org/observations/228777913
+4993961146,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-07-22,https://www.inaturalist.org/observations/254609064
+4923717240,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-08-08,https://www.inaturalist.org/observations/234449399
+4945911495,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-08-26,https://www.inaturalist.org/observations/240682958
+5292729648,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-08-21,https://www.inaturalist.org/observations/305759071
+4950020240,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-09-21,https://www.inaturalist.org/observations/243115813
+4994136065,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-09-02,https://www.inaturalist.org/observations/253363727
+4980682941,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-10-26,https://www.inaturalist.org/observations/250977888
+4981975172,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2024-10-23,https://www.inaturalist.org/observations/252247793
+5176827498,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-10-26,https://www.inaturalist.org/observations/249487265
+4981972572,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2024-11-14,https://www.inaturalist.org/observations/251613614
+4987854634,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2024-11-24,https://www.inaturalist.org/observations/253075803
+4994561575,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-11-28,https://www.inaturalist.org/observations/253369120
+5177036557,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2024-11-25,https://www.inaturalist.org/observations/253699467
+4994157867,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2024-12-09,https://www.inaturalist.org/observations/254728319
+5006979944,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2024-12-16,https://www.inaturalist.org/observations/256377445
+5007509475,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2024-12-17,https://www.inaturalist.org/observations/255360659
+6129938679,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2024-12-08,https://www.inaturalist.org/observations/254510800
+4854881160,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Central and Western,,2024-05-02,https://www.inaturalist.org/observations/213717734
+4854924503,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2024-05-03,https://www.inaturalist.org/observations/213045901
+4946385958,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2024-05-15,https://www.inaturalist.org/observations/215914246
+4891806714,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2024-06-08,https://www.inaturalist.org/observations/221468006
+4921816187,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Yuen Long,,2024-08-03,https://www.inaturalist.org/observations/233701887
+4936923246,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2024-08-31,https://www.inaturalist.org/observations/238945241
+4953022343,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2024-10-03,https://www.inaturalist.org/observations/245375433
+4516513573,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,MO,Ilhas,,2024-01-20,https://www.inaturalist.org/observations/197223235
+4018295107,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2023-01-14,https://www.inaturalist.org/observations/146505140
+4022282707,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2023-01-23,https://www.inaturalist.org/observations/147181109
+4067472329,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2023-03-18,https://www.inaturalist.org/observations/151574702
+4103180672,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2023-04-26,https://www.inaturalist.org/observations/156707393
+4127433534,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangsu,,2023-05-24,https://www.inaturalist.org/observations/163911735
+5292657407,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,,,2023-05-20,https://www.inaturalist.org/observations/162626246
+4145733680,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Jiangxi,,2023-06-30,https://www.inaturalist.org/observations/170254802
+4177391124,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hunan,,2023-08-11,https://www.inaturalist.org/observations/177980021
+4177412250,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shandong,,2023-08-07,https://www.inaturalist.org/observations/178329739
+4405441327,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2023-08-24,https://www.inaturalist.org/observations/179953798
+5087509961,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangxi,,2023-08-12,https://www.inaturalist.org/observations/264238606
+4440943339,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Sichuan,,2023-11-01,https://www.inaturalist.org/observations/189651586
+4500568741,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2023-11-25,https://www.inaturalist.org/observations/192707137
+4018310943,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-01-12,https://www.inaturalist.org/observations/146385968
+4018324465,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2023-01-17,https://www.inaturalist.org/observations/146754326
+4018647442,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-01-17,https://www.inaturalist.org/observations/146729706
+4028835234,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-01-01,https://www.inaturalist.org/observations/145536910
+4039365866,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2023-02-14,https://www.inaturalist.org/observations/148819338
+4046293937,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2023-02-24,https://www.inaturalist.org/observations/149570462
+4067445594,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-03-21,https://www.inaturalist.org/observations/151810334
+4075669226,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-03-24,https://www.inaturalist.org/observations/152095427
+4076061656,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-03,https://www.inaturalist.org/observations/153278029
+4080463644,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-05,https://www.inaturalist.org/observations/153523576
+4080677951,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2023-04-07,https://www.inaturalist.org/observations/153770338
+4091374716,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2023-04-10,https://www.inaturalist.org/observations/154534562
+4091628680,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2023-04-10,https://www.inaturalist.org/observations/154534561
+4091645179,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2023-04-15,https://www.inaturalist.org/observations/154938813
+4091736697,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-12,https://www.inaturalist.org/observations/154536298
+4102873498,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-29,https://www.inaturalist.org/observations/157703699
+4102912301,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-29,https://www.inaturalist.org/observations/157396546
+4137657148,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-04-20,https://www.inaturalist.org/observations/166759700
+4116037713,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2023-05-01,https://www.inaturalist.org/observations/158670022
+4116365456,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-05-03,https://www.inaturalist.org/observations/159385846
+4121039319,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-05-20,https://www.inaturalist.org/observations/162613499
+4127341067,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-05-27,https://www.inaturalist.org/observations/163953673
+4137705656,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2023-05-26,https://www.inaturalist.org/observations/167406081
+4138329665,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2023-06-19,https://www.inaturalist.org/observations/168245282
+4407397773,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2023-06-03,https://www.inaturalist.org/observations/181505535
+4165491995,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2023-07-18,https://www.inaturalist.org/observations/173775308
+4413384828,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-08-14,https://www.inaturalist.org/observations/182491938
+4507882385,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-08-21,https://www.inaturalist.org/observations/194409892
+5088192002,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2023-08-26,https://www.inaturalist.org/observations/265793914
+4421097504,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-09-30,https://www.inaturalist.org/observations/185542460
+4606891995,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-10-03,https://www.inaturalist.org/observations/204702996
+4440655294,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2023-11-04,https://www.inaturalist.org/observations/190483433
+4454057429,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-11-26,https://www.inaturalist.org/observations/192143983
+4510146095,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2023-11-25,https://www.inaturalist.org/observations/196049239
+4507683604,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2023-12-30,https://www.inaturalist.org/observations/195314077
+4102820745,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2023-04-28,https://www.inaturalist.org/observations/157950602
+4111912424,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2023-04-28,https://www.inaturalist.org/observations/159915877
+4177196772,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Sai Kung,,2023-08-13,https://www.inaturalist.org/observations/178180347
+5932204535,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2022-03-19,https://www.inaturalist.org/observations/330459054
+3772732705,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2022-04-29,https://www.inaturalist.org/observations/113341852
+4522826452,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Zhejiang,,2022-07-20,https://www.inaturalist.org/observations/199091128
+6251558454,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shanghai,,2022-09-10,https://www.inaturalist.org/observations/357853306
+3466467931,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-01-27,https://www.inaturalist.org/observations/105756604
+4039167397,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-01-06,https://www.inaturalist.org/observations/106103229
+3499665612,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-02-11,https://www.inaturalist.org/observations/106550264
+3743094767,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-03-13,https://www.inaturalist.org/observations/108574476
+3747254578,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2022-03-18,https://www.inaturalist.org/observations/108855840
+3759961547,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-03-31,https://www.inaturalist.org/observations/110082331
+3764245012,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2022-04-26,https://www.inaturalist.org/observations/112938271
+3784781192,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2022-05-19,https://www.inaturalist.org/observations/117717776
+3785055466,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2022-05-08,https://www.inaturalist.org/observations/116046760
+3859004544,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-06-15,https://www.inaturalist.org/observations/123913410
+3860059947,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2022-06-21,https://www.inaturalist.org/observations/123145318
+3860075713,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-06-11,https://www.inaturalist.org/observations/121688446
+3860334533,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2022-06-07,https://www.inaturalist.org/observations/121557674
+3892340138,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-08-14,https://www.inaturalist.org/observations/130906650
+3892694115,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-08-15,https://www.inaturalist.org/observations/130914021
+3903034818,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-08-18,https://www.inaturalist.org/observations/131298862
+4011856617,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-08-15,https://www.inaturalist.org/observations/144204157
+3902735427,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-09-01,https://www.inaturalist.org/observations/133177824
+3912052060,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-09-15,https://www.inaturalist.org/observations/135075124
+4080668486,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-09-26,https://www.inaturalist.org/observations/136517081
+3923592145,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2022-10-01,https://www.inaturalist.org/observations/137093980
+3947159326,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-10-21,https://www.inaturalist.org/observations/139501769
+3947550400,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-10-10,https://www.inaturalist.org/observations/138717461
+3947632989,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-10-19,https://www.inaturalist.org/observations/139306288
+3966351965,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-11-06,https://www.inaturalist.org/observations/141706791
+4009813717,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-11-15,https://www.inaturalist.org/observations/144780088
+3994224970,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-12-10,https://www.inaturalist.org/observations/144056234
+4006592737,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2022-12-11,https://www.inaturalist.org/observations/144357288
+4946021162,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2022-12-25,https://www.inaturalist.org/observations/156717356
+5230180260,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2022-01-29,https://www.inaturalist.org/observations/296715069
+3468679788,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Yuen Long,,2022-02-09,https://www.inaturalist.org/observations/106471704
+3903658718,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2022-09-12,https://www.inaturalist.org/observations/134716427
+3068017533,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2021-03-23,https://www.inaturalist.org/observations/71859657
+3314358600,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2021-04-26,https://www.inaturalist.org/observations/83464291
+3333067924,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2021-07-24,https://www.inaturalist.org/observations/88479896
+4597444253,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shandong,,2021-10-18,https://www.inaturalist.org/observations/202203317
+3018003764,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-01-02,https://www.inaturalist.org/observations/67449597
+4039258389,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2021-01-02,https://www.inaturalist.org/observations/67851439
+3355037457,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2021-02-05,https://www.inaturalist.org/observations/69091357
+3068131625,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-03-21,https://www.inaturalist.org/observations/71684847
+3070673085,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-03-29,https://www.inaturalist.org/observations/72560598
+3355218459,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-04-22,https://www.inaturalist.org/observations/74829574
+3113295843,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2021-05-08,https://www.inaturalist.org/observations/77857331
+3124822437,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-05-02,https://www.inaturalist.org/observations/76360036
+4039141400,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Tainan,,2021-05-06,https://www.inaturalist.org/observations/82288780
+3325739604,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-07-08,https://www.inaturalist.org/observations/86185322
+3337809018,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2021-08-17,https://www.inaturalist.org/observations/91464862
+3466092744,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2021-08-31,https://www.inaturalist.org/observations/94084278
+4973999537,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-08-25,https://www.inaturalist.org/observations/248409823
+3391290046,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-10-12,https://www.inaturalist.org/observations/97948465
+3873718535,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2021-10-28,https://www.inaturalist.org/observations/99629422
+4039150437,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-10-21,https://www.inaturalist.org/observations/103810603
+3456803243,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2021-12-01,https://www.inaturalist.org/observations/102338778
+3456928605,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2021-12-31,https://www.inaturalist.org/observations/104017998
+3017948180,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Sha Tin,,2021-01-06,https://www.inaturalist.org/observations/67660767
+3112866476,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,North,,2021-05-03,https://www.inaturalist.org/observations/77371147
+3384973144,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tsuen Wan,,2021-09-25,https://www.inaturalist.org/observations/96041249
+4028691501,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Kwun Tong,,2021-12-30,https://www.inaturalist.org/observations/103932739
+6130028159,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2020-08-15,https://www.inaturalist.org/observations/334184863
+2988424704,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hainan,,2020-11-22,https://www.inaturalist.org/observations/65409093
+3902102646,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hainan,,2020-11-08,https://www.inaturalist.org/observations/64422454
+5231619301,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Fujian,,2020-11-07,https://www.inaturalist.org/observations/296849302
+3109209579,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2020-03-27,https://www.inaturalist.org/observations/75686870
+2597920809,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-04-08,https://www.inaturalist.org/observations/41673594
+2603284045,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2020-04-11,https://www.inaturalist.org/observations/41881220
+2609195528,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-04-17,https://www.inaturalist.org/observations/42367669
+2611044110,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2020-04-25,https://www.inaturalist.org/observations/43825550
+2634005835,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-05-22,https://www.inaturalist.org/observations/46816629
+4039161323,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2020-06-24,https://www.inaturalist.org/observations/51982082
+6188085823,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2020-06-23,https://www.inaturalist.org/observations/347838030
+2856552734,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-08-22,https://www.inaturalist.org/observations/57202946
+2963766550,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-10-23,https://www.inaturalist.org/observations/63290842
+2984499606,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-11-08,https://www.inaturalist.org/observations/64419555
+3014010818,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taipei,,2020-12-27,https://www.inaturalist.org/observations/67136320
+3014036221,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-12-13,https://www.inaturalist.org/observations/67343926
+4039315417,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2020-12-27,https://www.inaturalist.org/observations/67503963
+2610944021,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tuen Mun,,2020-04-24,https://www.inaturalist.org/observations/43132277
+4039166311,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Kaohsiung,,2019-01-31,https://www.inaturalist.org/observations/20046709
+2005360411,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2019-02-17,https://www.inaturalist.org/observations/20415909
+2239024556,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2019-04-27,https://www.inaturalist.org/observations/24282994
+3415911341,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2019-05-18,https://www.inaturalist.org/observations/25298313
+2283203552,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2019-07-06,https://www.inaturalist.org/observations/28351689
+2429356511,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2019-10-02,https://www.inaturalist.org/observations/33788710
+2429518305,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2019-10-09,https://www.inaturalist.org/observations/34106340
+2429569307,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,New Taipei,,2019-10-13,https://www.inaturalist.org/observations/34291568
+3355496341,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taichung,,2019-10-19,https://www.inaturalist.org/observations/34572586
+3079525648,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2019-11-26,https://www.inaturalist.org/observations/36084357
+2244309022,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tai Po,,2019-05-22,https://www.inaturalist.org/observations/25550717
+2451736218,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Eastern,,2019-11-06,https://www.inaturalist.org/observations/35352321
+6178846824,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2018-03-10,https://www.inaturalist.org/observations/342543290
+3302108592,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2018-08-18,https://www.inaturalist.org/observations/80882812
+3785074310,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shanghai,,2018-09-08,https://www.inaturalist.org/observations/25251333
+1920791895,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2018-09-14,https://www.inaturalist.org/observations/16577594
+1920820121,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2018-10-02,https://www.inaturalist.org/observations/17313653
+1841247433,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Tai Po,,2018-04-29,https://www.inaturalist.org/observations/11742003
+1841275266,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,HK,Islands,,2018-04-30,https://www.inaturalist.org/observations/11880881
+4413365532,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Shandong,,2017-06-25,https://www.inaturalist.org/observations/136423867
+6170938049,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Zhejiang,,2016-08-28,https://www.inaturalist.org/observations/340573148
+5108146117,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2015-03-26,https://www.inaturalist.org/observations/267173959
+6171070280,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,TW,Taiwan,,2015-08-16,https://www.inaturalist.org/observations/340336987
+3925075302,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Chongqing,,2014-09-13,https://www.inaturalist.org/observations/886518
+4121237724,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Hubei,,2014-10-02,https://www.inaturalist.org/observations/161226804
+4919248329,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Guangdong,,2013-03-09,https://www.inaturalist.org/observations/68092683
+4046463065,50c9509d-22c7-4a22-a47d-8c48425ef4a7,iNaturalist research-grade observations,HUMAN_OBSERVATION,CN,Yunnan,,2010-08-25,https://www.inaturalist.org/observations/149674374
+4437342301,1b26c417-366a-4eb0-a212-6ee8035d83fb,,HUMAN_OBSERVATION,CN,Henan,"Shenqiu  Section of Shaying River, a tributary of Huaihe River",2023-11-13,
+4438006302,1b26c417-366a-4eb0-a212-6ee8035d83fb,,HUMAN_OBSERVATION,CN,Anhui,Wuhe Section of the Huaihe River Mainstream,2023-11-13,
+5871969301,c507b38c-4650-4db0-931d-43363f273578,,HUMAN_OBSERVATION,TW,,,2023-11-22,
+4958610128,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,學田橋,2022-07-05,
+4958622552,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,玉里大橋,2022-07-08,
+4958622560,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,崙天大橋,2022-07-06,
+4958663853,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,竹林大橋,2021-07-20,
+4958622063,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,河口右岸,2021-08-23,
+4958622106,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,原山奇美橋,2021-08-23,
+4958622173,83cbdde7-998f-4354-95de-72d885cc5863,,HUMAN_OBSERVATION,TW,,瑞穗大橋,2021-08-23,
+3959566311,14d5676a-2c54-4f94-9023-1e8dcd822aa0,,HUMAN_OBSERVATION,HK,,,2021-04-07,
+3951464424,14d5676a-2c54-4f94-9023-1e8dcd822aa0,,HUMAN_OBSERVATION,TW,,,2016-11-17,
+1313770364,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Hsinchu,,2015-01-20,
+1313770958,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,New Taipei,,2015-02-10,
+1313771352,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Hsinchu,,2015-03-03,
+1313777907,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Taoyuan,,2015-07-22,
+3351557204,d8cd16ba-bb74-4420-821e-083f2bac17c2,,PRESERVED_SPECIMEN,HK,,,2015-07-28,https://www.ebi.ac.uk/ena/browser/view/MH049895
+3990246188,d8cd16ba-bb74-4420-821e-083f2bac17c2,,PRESERVED_SPECIMEN,CN,,,2014-09-17,https://www.ebi.ac.uk/ena/browser/view/MH049896
+4045010534,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,广西,,2014,http://nsii.org.cn/2017/specimen.php?id=16957148
+1313764481,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Yilan,,2014-02-01,
+1313753460,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Tainan,,2013-05-09,
+1313735603,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Pingtung,,2012-03-29,
+1313737073,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Pingtung,,2012-05-09,
+1313737396,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Pingtung,,2012-05-09,
+1313737909,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Pingtung,,2012-05-22,
+1313741258,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Kaohsiun,,2012-09-26,
+3866729781,19c3400b-b7bb-425f-b8c5-f222648b86b2,,PRESERVED_SPECIMEN,TW,,,2012-12-25,https://taie.tbn.org.tw/specimen?catalognum=32382
+1313723514,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Taitung,,2011-04-12,
+1313727584,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Hualien,,2011-06-15,
+1313732274,e1f3be55-9f45-474c-8374-502b236e0ad0,,HUMAN_OBSERVATION,TW,Hualien,,2011-11-10,
+4043512271,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,湖南,,2007,http://www.nsii.org.cn/2017/specimen.php?id=10448649
+4045470604,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,浙江,,1989,http://www.nsii.org.cn/2017/specimen.php?id=9944201
+4043545071,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,贵州,,1987,http://www.nsii.org.cn/2017/specimen.php?id=10313121
+4044595379,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,安徽,,1987,http://www.nsii.org.cn/2017/specimen.php?id=9944200
+4043800970,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,江西,,1985,http://nsii.org.cn/2017/specimen.php?id=5255316
+4045024595,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,福建,,1982,http://www.nsii.org.cn/2017/specimen.php?id=16602869
+4044769683,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1978,http://nsii.org.cn/2017/specimen.php?id=14982032
+4045136898,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,四川,,1977,http://nsii.org.cn/2017/specimen.php?id=19708090
+4043321392,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1974,http://nsii.org.cn/2017/specimen.php?id=3408000
+4043305146,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1973,http://nsii.org.cn/2017/specimen.php?id=3407663
+4044101335,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1973,http://www.nsii.org.cn/2017/specimen.php?id=7007227
+4044131274,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,湖南,,1973,http://nsii.org.cn/2017/specimen.php?id=8468490
+4043949432,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,浙江,,1972,http://nsii.org.cn/2017/specimen.php?id=18364114
+4043964436,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,江西,,1970,http://nsii.org.cn/2017/specimen.php?id=6784555
+4045062498,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,江西,,1967,http://www.nsii.org.cn/2017/specimen.php?id=5152200
+4044293364,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,湖北,,1964,http://www.nsii.org.cn/2017/specimen.php?id=8569161
+4044709768,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,福建,,1964,http://nsii.org.cn/2017/specimen.php?id=15782659
+4044569788,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,河南,,1963,http://nsii.org.cn/2017/specimen.php?id=2831505
+4043331743,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1960,http://nsii.org.cn/2017/specimen.php?id=3407999
+4043764541,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,广东,,1959,http://nsii.org.cn/2017/specimen.php?id=16304440
+4043301412,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,河南,,1958,http://nsii.org.cn/2017/specimen.php?id=3407811
+4043324344,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,江西,,1958,http://nsii.org.cn/2017/specimen.php?id=3407810
+4043746413,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,广东,,1958,http://nsii.org.cn/2017/specimen.php?id=16304438
+4043792494,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,四川,,1958,http://nsii.org.cn/2017/specimen.php?id=16484669
+4044481559,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,四川,,1958,http://nsii.org.cn/2017/specimen.php?id=9512249
+4045135836,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,甘肃,,1958,http://www.nsii.org.cn/2017/specimen.php?id=5152197
+4045208623,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,湖北,,1958,http://nsii.org.cn/2017/specimen.php?id=2283372
+4045195800,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1957,http://nsii.org.cn/2017/specimen.php?id=5460359
+4044121155,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,广东,,1956,http://nsii.org.cn/2017/specimen.php?id=7007155
+4045157554,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,江西,,1956,http://www.nsii.org.cn/2017/specimen.php?id=16484664
+4043699934,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,云南,,1955,http://nsii.org.cn/2017/specimen.php?id=16304302
+4045105952,4515e736-fa02-44ee-9808-bf89445104fe,,PRESERVED_SPECIMEN,CN,海南,,1945,http://nsii.org.cn/2017/specimen.php?id=16304443
+3865427620,f873ef66-231a-4ea3-bd4d-a16f182bf337,,PRESERVED_SPECIMEN,TW,,"Taihoku, Formosa",1905-10-10,https://midatlanticherbaria.org/portal/collections/individual/index.php?occid=21616133
+2417502471,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,福建,,1991,
+2417593158,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,湖南,,1984,
+2417385483,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,福建,,1980,
+2417680872,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,广东,,1980,
+919463447,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,,1978,
+919603054,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,南沙附近,1973,
+891648715,29d56be4-2b76-4a05-887d-633a3c6a9a83,,PRESERVED_SPECIMEN,TW,,Nanching,1960-11-04,
+2417407188,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,浙江,,1959,
+2417481963,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,河南,,1959,
+1030732861,af7d2594-6d4e-47e9-9f30-b7ebb3110f7b,,PRESERVED_SPECIMEN,CN,江西,何家湾乡池溪社,1958,
+2417396671,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,江苏,,1958,
+2417636303,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,湖北,,1958,
+2417644446,3942a8dc-9f01-420d-a829-01675dc01c73,,PRESERVED_SPECIMEN,CN,浙江,,1958,
+1030732885,af7d2594-6d4e-47e9-9f30-b7ebb3110f7b,,PRESERVED_SPECIMEN,CN,江西,,1957,
+919603020,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,三区新勐村,1956,
+1030949978,b54a3b16-b648-41ab-bd6f-d3881895daac,,PRESERVED_SPECIMEN,CN,广西,城郊附近,1956,
+919603056,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,县城,1955,
+891651094,29d56be4-2b76-4a05-887d-633a3c6a9a83,,PRESERVED_SPECIMEN,TW,,Swantou,1942-06-11,
+919603044,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,城附近,1941,
+919603040,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,Hsiao-Chan-Chien,1939,
+919603034,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,小勐养,1936,
+919603038,1b412457-43cf-4a6f-b5c2-7acf01be5977,,PRESERVED_SPECIMEN,CN,云南,,1936,
+1030949966,b54a3b16-b648-41ab-bd6f-d3881895daac,,PRESERVED_SPECIMEN,CN,广西,窑头村,1936,
+3774336280,83cbdde7-998f-4354-95de-72d885cc5863,,OCCURRENCE,TW,,高樹大橋,2019-04-16,
+3774338248,83cbdde7-998f-4354-95de-72d885cc5863,,OCCURRENCE,TW,,高樹大橋,2019-04-16,
+3774445229,83cbdde7-998f-4354-95de-72d885cc5863,,OCCURRENCE,TW,,泰和橋,2019-04-16,
+3774339222,83cbdde7-998f-4354-95de-72d885cc5863,,OCCURRENCE,TW,,弘文橋,2013-09-05,

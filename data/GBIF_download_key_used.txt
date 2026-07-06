@@ -1,0 +1,11 @@
+GBIF download key identified from the available source files:
+
+0052198-260519110011954
+
+GBIF download page:
+
+https://www.gbif.org/occurrence/download/0052198-260519110011954
+
+Important terminology note:
+
+The column named `gbif_key` in `Supplementary_Dataset_S2_GBIF_CVHNSII_traceable_records.csv` is the GBIF occurrence key (`gbifID`) for each individual record. It is not the GBIF download job key. The filtered 408 GBIF records used in the final occurrence dataset are traceable through those individual occurrence keys and are listed separately in `GBIF_408_occurrence_keys_for_redownload.csv`.

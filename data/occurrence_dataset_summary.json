@@ -1,0 +1,41 @@
+{
+  "final_occurrence_dataset": {
+    "records": 468,
+    "columns": [
+      "species",
+      "x",
+      "y",
+      "source",
+      "time"
+    ],
+    "source_counts": {
+      "GBIF": 408,
+      "CVH/NSII via GBIF": 35,
+      "PPBC": 19,
+      "Literature": 6
+    }
+  },
+  "traceable_dataset": {
+    "records": 443,
+    "source_counts": {
+      "GBIF": 408,
+      "CVH/NSII via GBIF": 35
+    }
+  },
+  "gbif_subset": {
+    "records": 408,
+    "matches_traceable_gbif_records": true,
+    "top_dataset_titles": [
+      [
+        "iNaturalist research-grade observations",
+        318
+      ],
+      [
+        "(datasetTitle not recorded)",
+        90
+      ]
+    ]
+  },
+  "gbif_download_key_identified_from_available_files": "0052198-260519110011954",
+  "note": "The column gbif_key in Supplementary_Dataset_S2 is the GBIF occurrence key (gbifID) for each record, not a GBIF download job key."
+}
