@@ -1,6 +1,6 @@
 # Pistia stratiotes SDM open data and workflow package
 
-This repository contains the occurrence records, traceability tables, scripts, selected outputs, and workflow documentation supporting the manuscript on the potential suitable habitat of *Pistia stratiotes* in China.
+This repository contains the occurrence records, traceability tables, R scripts, selected outputs, and workflow documentation for the manuscript on the potential suitable habitat of Pistia stratiotesin China.
 
 ## Core contents
 
@@ -26,16 +26,16 @@ The final occurrence dataset contains 468 records:
 
 The 408 GBIF records in `Supplementary_Dataset_S1_occurrence_records.csv` match the 408 GBIF rows in `Supplementary_Dataset_S2_GBIF_CVHNSII_traceable_records.csv`.
 
-Important terminology note: the `gbif_key` column in Supplementary Dataset S2 is the GBIF occurrence key, also known as the GBIF occurrence ID or `gbifID`, for each individual record. It is not the GBIF download job key. The GBIF download key identified from the available files is recorded separately in `data/GBIF_download_key_used.txt`.
+Note on terminology: in Supplementary Dataset S2, gbif_key is the GBIF occurrence key (also called the GBIF occurrence ID or gbifID) for each record, not the GBIF download job key. The download key identified from the available files is stored separately in data/GBIF_download_key_used.txt.
 
 ## Software and workflow
 
-This package includes R scripts for the analyses that were scripted during revision. Some manuscript steps were conducted in GUI-based software, including MaxEnt, ArcGIS, and SDMtoolbox. These are documented in `workflow/reproducibility_workflow.md` with software versions, parameter settings, filtering rules, and output interpretation.
+The repository includes R scripts for the analyses that were scripted during revision. Some steps were performed in GUI-based software, including MaxEnt, ArcGIS, and SDMtoolbox. These steps are documented in workflow/reproducibility_workflow.md, together with software versions, parameter settings, filtering rules, and output interpretation.
 
-## Recommended citation after Zenodo archiving
+## Citation
 
-After uploading this repository to GitHub and creating a Zenodo archive, cite the Zenodo DOI in the manuscript Data Availability statement and response letter. Replace all placeholder repository URLs and DOI fields with the final Zenodo DOI assigned to your release.
+After uploading this repository to GitHub and archiving it with Zenodo, cite the Zenodo DOI in the manuscript Data Availability statement and response letter. Replace all placeholder URLs and DOI fields with the final Zenodo DOI for your release.
 
 ## Licence
 
-Code files are released under the MIT-style terms described in `LICENSE.md`. Reused biodiversity records and environmental data remain subject to the licences and terms of their original providers, including GBIF, CVH/NSII, PPBC, WorldClim, and other public data sources cited in the manuscript.
+Code files are released under the MIT-style terms in LICENSE.md. Reused biodiversity records and environmental data remain subject to the licences and terms of their original providers, including GBIF, CVH/NSII, PPBC, WorldClim, and other public data sources cited in the manuscript.
