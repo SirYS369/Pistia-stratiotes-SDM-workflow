@@ -5,9 +5,9 @@ type: dataset
 authors:
   - family-names: Tian
     given-names: Ruijie
-version: "1.0.0"
-date-released: "2026-07-06"
-repository-code: "https://github.com/[USERNAME]/Pistia-stratiotes-SDM-workflow"
+version: "1.0.1"
+date-released: "2026-09-26"
+repository-code: "https://github.com/SirYS369/Pistia-stratiotes-SDM-workflow"
 keywords:
   - species distribution modelling
   - MaxEnt
