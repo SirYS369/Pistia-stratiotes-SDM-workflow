@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 title: "Data and workflow for modelling potential suitable habitat of Pistia stratiotes in China"
-message: "If you use this repository, please cite the archived Zenodo DOI after release."
-type: dataset
+message: "This record archives version v1.0.1 of the data and workflow supporting the associated manuscript."
+type: software
 authors:
   - family-names: Tian
     given-names: Ruijie
 version: "1.0.1"
-date-released: "2026-09-26"
+date-released: "2026-10-02"
 repository-code: "https://github.com/SirYS369/Pistia-stratiotes-SDM-workflow"
 keywords:
   - species distribution modelling
