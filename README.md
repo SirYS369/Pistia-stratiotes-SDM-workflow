@@ -34,7 +34,7 @@ The repository includes R scripts for the analyses that were scripted during rev
 
 ## Citation
 
-After uploading this repository to GitHub and archiving it with Zenodo, cite the Zenodo DOI in the manuscript Data Availability statement and response letter. Replace all placeholder URLs and DOI fields with the final Zenodo DOI for your release.
+Tian, R. (2026). Data and workflow for predicting the potential distribution of *Pistia stratiotes* L. in China under climate change using a MaxEnt model (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23107570
 
 ## Licence
 
