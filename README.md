@@ -4,7 +4,7 @@ This repository contains the occurrence records, traceability tables, R scripts,
 
 ## Core contents
 
-- `data/Supplementary_Dataset_S1_occurrence_records.xlsx`: final occurrence dataset used for manuscript revision. The usable table is `Sheet2`, containing 468 records.
+- `data/Supplementary_Dataset_S1_occurrence_records.xlsx`: final occurrence dataset containing 468 records. The analysis-ready dataset is provided in Sheet2.
 - `data/Supplementary_Dataset_S1_occurrence_records.csv`: CSV export of `Sheet2` from the same file.
 - `data/Supplementary_Dataset_S2_GBIF_CVHNSII_traceable_records.csv`: traceability table for 443 GBIF-mediated records, including 408 GBIF records and 35 CVH/NSII records accessed through GBIF-mediated metadata.
 - `data/GBIF_408_occurrence_keys_for_redownload.csv`: GBIF occurrence keys for the 408 GBIF records in the final dataset.
